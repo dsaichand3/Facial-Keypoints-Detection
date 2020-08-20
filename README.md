@@ -3,7 +3,6 @@
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
 
 # Facial Keypoint Detection
-## Accomplished as a required project for Udacity Computer Vision Nanodegree 
 
 ## Project Overview
 ### Results are not generated from the model that has been trained. Thus, results might not be same.
