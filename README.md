@@ -1,7 +1,3 @@
-[//]: # (Image References)
-
-[image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
-
 # Facial Keypoint Detection
 
 ## Project Overview
@@ -14,8 +10,3 @@ and emotion recognition. Your completed code should be able to look at any image
 these keypoints are displayed below.
 
 #### This project has been further extended in Python & Tensorflow with C++ interface.
-<p align="center">
-  <img src="./images/Figure_keypoints_model_2_obamas.png" width='80%' height='50%' />
-</p>
-
-
